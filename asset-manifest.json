@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/recortadorimagenes/static/css/main.e6c13ad2.css",
+    "main.js": "/recortadorimagenes/static/js/main.3816012d.js",
+    "index.html": "/recortadorimagenes/index.html",
+    "main.e6c13ad2.css.map": "/recortadorimagenes/static/css/main.e6c13ad2.css.map",
+    "main.3816012d.js.map": "/recortadorimagenes/static/js/main.3816012d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3816012d.js"
+  ]
+}
